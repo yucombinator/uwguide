@@ -3,7 +3,7 @@
 
 * You can use [UPrint](http://uprint.uwaterloo.ca/instructions.html) to print on campus, or to scan to your email
 
-* [UW Portal](portal.uwaterloo.ca) has an app to find empty classrooms.
+* [UW Portal](http://portal.uwaterloo.ca) has an app to find empty classrooms.
 
 * There are piano rooms in SLC and one outdoor piano in the summer near TC/DP
 

@@ -17,9 +17,9 @@
 
 * **Gol’s Lanzhou Noodle**: Quality food with good portion size ($10-15).
 
-* **Kenzo Ramen****: **Really good ramen! A solid lunch meal, and pretty reasonably priced (~$10)
+* **Kenzo Ramen**: Really good ramen! A solid lunch meal, and pretty reasonably priced (~$10)
 
-* **Waterloo Star: **Pretty cheap, decent asian food (especially if you go for their lunch specials which is like 6.99 (includes a dish as well as soup and all you can drink pop)
+* **Waterloo Star**: Pretty cheap, decent asian food (especially if you go for their lunch specials which is like 6.99 (includes a dish as well as soup and all you can drink pop)
 
 * **Poke Box (King/University)**: Comparatively pretty worthwhile for the money. The dressing and heaping of avocado is something to yearn for.
 
@@ -47,7 +47,7 @@
 
 * **Loloan Lobby Bar**: Really good south asian food (Indonesia, Singapore, etc). Authentic food, but fancier. Definitely a good candidate for a dressed-up meal, where a dress shirt and casual black dress doesn’t stand out - but going in just a t-shirt and jeans is also common. It’s quite the interesting dynamic there. Definitely get a cocktail.
 
-* Quik Sandwiches - in Uptown it's faster food and a little pricey but really great
+* **Quik Sandwiches** - in Uptown it's faster food and a little pricey but really great
 
 # Kitchener
 
@@ -59,7 +59,7 @@
 
 * **Kinkaku**: AYCE sushi, very popular, limited seating but fantastic food. They take reservations for groups of 6 or more. 
 
-* **Mark’s Caribbean Kitchen: ** Great new Caribbean place that just opened. Very friendly staff and the chef will even sometimes come talk to you. Recommend the Jerk Chicken or the Oxtail Stew!
+* **Mark’s Caribbean Kitchen**: Great new Caribbean place that just opened. Very friendly staff and the chef will even sometimes come talk to you. Recommend the Jerk Chicken or the Oxtail Stew!
 
 * **Lancaster Smokehouse**: Great Southern BBQ. Try their platters (with friends). 
 
@@ -70,5 +70,4 @@
 * [**bo de's**](http://www.bodefoods.com/): Discount cookies and candy on Northfield. Sells cookies in 5 pound boxes for $10.
 
 * [**Ambrosia Pastry**](https://ambrosiapastry.com): Only open Saturday 10-3, posts weekly menus the night before on [Twitter](https://twitter.com/Ambrosia_Pastry). Amazing croissants and ice cream.
-
     * Open Thursday nights in the summer; 2 food trucks come by (date idea anyone?)

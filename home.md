@@ -26,7 +26,7 @@ It doesn't matter if you're a new student or well-established in the school comm
 * [Seasonal Events](/events)
 
 # Contributing
-Something about how to contribute here.
+If you know something we've missed, please don't hesitate to contribute! We aim to make this guide as comprehensive as possible, and a lot is still missing as we have just launched this website.
 
 This guide runs on a Markdown-based wiki software, and can be edited in two ways:
 1.  Make an account on this website, and edit pages just like Wikipedia.

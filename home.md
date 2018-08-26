@@ -4,12 +4,13 @@
 # Welcome
 
 We want to create a guide that includes some useful info for campus life (Counseling! Secret tunnels on campus! Grad House beers!), but also information on interesting things to do around the campus. One thing I noticed when talking to first years is that a good amount of them haven’t left the area around the campus all that much. Hopefully, by listing things in the city, we can dispel the myth that there is nothing to do in the KW area… it won’t be Toronto, or NYC, for sure, but we’ve got to start somewhere :)
-## Eat and Drink
+
+### Eat and Drink
 * [Restaurants](/restaurants)
 * [Bubble Tea](/bubble-tea)
 * [Groceries](/groceries)
 
-## Campius Life
+## Campus Life
 * [Campus Tips](/campus-tips)
 * [Study Areas](/study-areas)
 * [Things to do on Campus](/what-to-do)
@@ -22,6 +23,7 @@ We want to create a guide that includes some useful info for campus life (Counse
 * [Activities in Waterloo](/waterloo-activities)
 * [Activities in Kitchener](/kitchener-activities)
 * [Seasonal Events](/events)
+
 # Contributing
 Something about how to contribute here.
 

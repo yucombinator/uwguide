@@ -3,7 +3,7 @@
 
 There’s lots happening on campus, with something for everyone!
 
-* Check out the **Clubs day(s) **during Welcome Week to find out what’s out there
+* Check out the **Clubs day(s)** during Welcome Week to find out what’s out there
 
     * Here’s a list of [all clubs](https://uwaterloo.ca/feds/clubs/listing) on campus
 

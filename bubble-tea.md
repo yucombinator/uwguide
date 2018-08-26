@@ -5,7 +5,7 @@ Get a Vicinity card so you can get free bubble tea/specials (available at Chatim
 
 * **Kung Fu Tea**: The Taiwanese cheese foam is amazing.
 
-* **Chatime **is decent; keep an eye out for their Tea of the Month for discounts.
+* **Chatime** is decent; keep an eye out for their Tea of the Month for discounts.
 
 * **Sharetea**: Fresh milk options
 

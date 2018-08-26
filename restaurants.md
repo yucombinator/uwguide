@@ -31,11 +31,11 @@
 
 # Reasonably Bussable
 
-* **[Berlin Bicycle Caf**e](https://www.yelp.ca/biz/berlin-bicycle-cafe-kitchener): a hidden gem that I’m finally revealing. Super cute theme of bicycles and coffee. Located on Belmont which looks like a tiny main street full of people in the summer. 
+* **[Berlin Bicycle Cafe](https://www.yelp.ca/biz/berlin-bicycle-cafe-kitchener): a hidden gem that I’m finally revealing. Super cute theme of bicycles and coffee. Located on Belmont which looks like a tiny main street full of people in the summer. 
 
-* **[Famoso**s](https://famoso.ca/)** (Uptown Waterloo)****: **Wholesome italian restaurant with really good pizzas and pasta. A nicer place, so it is a bit more expensive (~$20/meal). 
+* **[Famoso's](https://famoso.ca/)** (Uptown Waterloo)****: **Wholesome italian restaurant with really good pizzas and pasta. A nicer place, so it is a bit more expensive (~$20/meal). 
 
-* **[Owl of Minerva (Uptown Waterloo**)](https://www.yelp.ca/biz/the-famous-owl-of-minerva-waterloo)**: **Best Korean in Waterloo ($10-15)
+* **[Owl of Minerva (Uptown Waterloo)](https://www.yelp.ca/biz/the-famous-owl-of-minerva-waterloo)**: **Best Korean in Waterloo ($10-15)
 
 * **Vincenzo’s (South of Uptown): ** GOD TIER, both for super high quality groceries at weirdly reasonable prices, and for good reasonably priced sandwiches.
 

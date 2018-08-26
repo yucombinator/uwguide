@@ -59,7 +59,7 @@
 
 * **Kinkaku**: AYCE sushi, very popular, limited seating but fantastic food. They take reservations for groups of 6 or more. 
 
-* **Mark’s Caribbean Kitchen: **Great new Caribbean place that just opened. Very friendly staff and the chef will even sometimes come talk to you. Recommend the Jerk Chicken or the Oxtail Stew!
+* **Mark’s Caribbean Kitchen: ** Great new Caribbean place that just opened. Very friendly staff and the chef will even sometimes come talk to you. Recommend the Jerk Chicken or the Oxtail Stew!
 
 * **Lancaster Smokehouse**: Great Southern BBQ. Try their platters (with friends). 
 

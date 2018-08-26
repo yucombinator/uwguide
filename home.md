@@ -22,4 +22,8 @@ We want to create a guide that includes some useful info for campus life (Counse
 # Contributing
 Something about how to contribute here.
 
+This guide runs on a Markdown-based wiki software, and can be edited in two ways:
+1.  Make an account on this website, and edit pages just like Wikipedia.
+2.  For the more technically minded: you can clone [our github repository](https://github.com/icechen1/uwguide) and submit changes as Pull Requests.
+
 [Credits](/credits)

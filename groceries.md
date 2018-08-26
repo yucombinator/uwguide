@@ -1,5 +1,5 @@
 <!-- TITLE: Groceries -->
-<!-- SUBTITLE: A quick summary of Groceries -->
+<!-- SUBTITLE: For those of us who can "cook". -->
 
 
 * Valu-Mart (Uptown Waterloo): 10% student discount Tues-Thurs

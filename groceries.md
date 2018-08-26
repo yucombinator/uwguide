@@ -10,7 +10,7 @@
 
 * Try to shop for groceries at Brent's No Frills (a little far away, but worth it if once a month)
 
-**[Kitchener Marke**t](http://www.kitchenermarket.ca/en/index.asp)
+[**Kitchener Market**](http://www.kitchenermarket.ca/en/index.asp)
 
 * Accessible from the UW area by a variety of buses (7/8/200)
 
@@ -20,7 +20,7 @@
 
 * Really cheap veggies and fruits!
 
-**[St. Jacob’s Marke**t](https://stjacobs.com/Farmers-Market-General-Information.htm)
+[**St. Jacob’s Market**](https://stjacobs.com/Farmers-Market-General-Information.htm)
 
 * Take the 21 from Conestoga Mall
 

@@ -1,5 +1,5 @@
 <!-- TITLE: Home -->
-<!-- Fantastic Waterloo Gems and Where to Find Them -->
+<!-- SUBTITLE: Fantastic Waterloo Gems and Where to Find Them -->
 
 # Welcome
 

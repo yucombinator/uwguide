@@ -25,8 +25,8 @@ This guide runs on a Markdown-based wiki software, and can be edited in two ways
 1.  Make an account on this website, and edit pages just like Wikipedia.
 2.  For the more technically minded: you can clone [our github repository](https://github.com/icechen1/uwguide) and submit changes as Pull Requests.
 
-[Credits](/credits)
-
 We're currently working on the following two pages:
 * [Coffee Shops](/coffee-shops)
 * [Pubs and Bars](/bars)
+
+[Credits](/credits)

@@ -23,7 +23,7 @@
 
 * **St Jerome’s new building (SJ2)** has a very open, naturally-lit layout with workspaces overlooking the creek
 
-* **SLC 3rd floor**quiet study (when renovations finally finish)
+* **SLC 3rd floor** quiet study (when renovations finally finish)
 
 * **M3** on each floor has a small section by the stairwell where you can sit at a table, there’s a chalkboard you can write on, and a big open window with a nice view
 

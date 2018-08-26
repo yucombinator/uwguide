@@ -1,5 +1,5 @@
-<!-- TITLE: Events -->
-<!-- SUBTITLE: A quick summary of Events -->
+<!-- TITLE: Seasonal Events -->
+<!-- SUBTITLE: Some things happen during certain times of those year. These are those things. -->
 
 * **Victoria Park:** Paddle boat rentals in the summer
 

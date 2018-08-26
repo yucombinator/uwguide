@@ -7,3 +7,15 @@ We want to create a guide that includes some useful info for campus life (Counse
 
 [Restaurants](/restaurants)
 [Bubble Tea](/bubble-tea)
+[Campus Tips](/campus-tips)
+[Study Areas](/study-areas)
+[Getting Around](/getting-around)
+[Things to do on Campus](/what-to-do)
+[Clubs](/clubs)
+[Activities in Waterloo](/waterloo-activities)
+[Activities in Kitchener](/kitchener-activities)
+[Counselling](/counselling)
+[Saving Money](/saving-money)
+[Seasonal Events](/events)
+
+[Credits](/credits)

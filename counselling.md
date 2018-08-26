@@ -1,7 +1,7 @@
 <!-- TITLE: Counselling -->
 <!-- SUBTITLE: A quick summary of Counselling -->
 
-* **[Mate**s](https://uwaterloo.ca/campus-wellness/counselling-services/uw-mates-peer-support): Peer-counselling on campus in Needles Hall and E2.
+* [**Mates**](https://uwaterloo.ca/campus-wellness/counselling-services/uw-mates-peer-support): Peer-counselling on campus in Needles Hall and E2.
 
     * You can make an appointment [online](https://feds.ca/feds-services/uw-mates/uw-mates-request-appointment-form)
 
@@ -9,7 +9,7 @@
 
 * **Health Services** Psychologist (referral required from a physician)
 
-* **[Counselling Service**s](https://uwaterloo.ca/campus-wellness/counselling-services)
+* [**Counselling Services**](https://uwaterloo.ca/campus-wellness/counselling-services)
 
     * Bookings are by phone or walk-in
 

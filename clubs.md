@@ -1,7 +1,7 @@
 <!-- TITLE: Clubs -->
 <!-- SUBTITLE: A quick summary of Clubs -->
 
-* * [**Acapella**](https://www.facebook.com/UWACC/)**:** Very friendly group of people and you usually go out for food after rehearsals so there’s bonding time! ACE is the open group; the rest are auditioned.
+* [**Acapella**](https://www.facebook.com/UWACC/)**:** Very friendly group of people and you usually go out for food after rehearsals so there’s bonding time! ACE is the open group; the rest are auditioned.
 
 * [**Campus Crusade for Cheese**](https://www.facebook.com/profile.php?id=2202862856&ref=br_rs): Super laid back group: come for the cheese, stay for the people. Look for cheese related events like grilled cheese & cheesecake nights and for some reason karaoke! 
 

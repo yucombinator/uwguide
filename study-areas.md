@@ -1,9 +1,9 @@
 <!-- TITLE: Study Areas -->
 <!-- SUBTITLE: A quick summary of Study Areas -->
 
-* **Environment 1 **has a covered courtyard with tables and outlets - pretty nice place when the weather is alright that usually isn’t that busy 
+* **Environment 1 ** has a covered courtyard with tables and outlets - pretty nice place when the weather is alright that usually isn’t that busy 
 
-* **Optometry **has spacious and well lit areas
+* **Optometry ** has spacious and well lit areas
 
 * **Hagey Hall Hub (New HH / H3)** is also a great place! Lots of space and the tables have chargers for your laptop. You can find large round study tables in the back for group work, some comfy couches, and smaller round tables for independent work (be advised: not a quiet study area)
 

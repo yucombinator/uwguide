@@ -36,3 +36,5 @@ We're currently working on the following two pages:
 * [Pubs and Bars](/bars)
 
 [Credits](/credits)
+
+For any questions & comments, shoot an email to [Yu Chen Hou](mailto:me@yuchenhou.com) or [Deon Hua](mailto:me@deonhua.com).

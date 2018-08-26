@@ -1,7 +1,7 @@
 <!-- TITLE: Events -->
 <!-- SUBTITLE: A quick summary of Events -->
 
-* **Victoria Park: **Paddle boat rentals in the summer
+* **Victoria Park:** Paddle boat rentals in the summer
 
 * [**Oktoberfest**](http://www.oktoberfest.ca/): if you like alcohol and sausages
 

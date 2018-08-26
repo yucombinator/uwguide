@@ -7,7 +7,7 @@
 
 * **Hagey Hall Hub (New HH / H3)** is also a great place! Lots of space and the tables have chargers for your laptop. You can find large round study tables in the back for group work, some comfy couches, and smaller round tables for independent work (be advised: not a quiet study area)
 
-* **BMH **has tables against the wall which are nice since there’s nothing in front of you to distract you, but be forewarned there are many people passing through
+* **BMH** has tables against the wall which are nice since there’s nothing in front of you to distract you, but be forewarned there are many people passing through
 
 * Between **TC and DP** is a great place to read/relax outdoors.
 
@@ -21,12 +21,12 @@
 
 * **E6 5th floor** has a lot of tables with power. Not super crowded and relatively close to Philips/Lester student housing
 
-* **St Jerome’s new building (SJ2) **has a very open, naturally-lit layout with workspaces overlooking the creek
+* **St Jerome’s new building (SJ2)**has a very open, naturally-lit layout with workspaces overlooking the creek
 
-* **SLC 3rd floor **quiet study (when renovations finally finish)
+* **SLC 3rd floor**quiet study (when renovations finally finish)
 
-* **M3 **on each floor has a small section by the stairwell where you can sit at a table, there’s a chalkboard you can write on, and a big open window with a nice view
+* **M3** on each floor has a small section by the stairwell where you can sit at a table, there’s a chalkboard you can write on, and a big open window with a nice view
 
 * Any new building on campus: E5, QNC, STC
 
-* **Conrad Grebel Milton Good Library: **Nice tables and natural light.
+* **Conrad Grebel Milton Good Library:** Nice tables and natural light.

@@ -15,11 +15,11 @@
 
 * If you want to do a trip further out in the area, you likely need to rent a car:
 
-    * **[Avis car rental (Weber/Union)**](https://goo.gl/maps/c9YgjucBcDE2)**:** No underage fees if you show your Watcard, which saves a whole lot of money especially if your credit card provides CDW insurance (check your cardholder agreement).
+    * [**Avis car rental (Weber/Union)**](https://goo.gl/maps/c9YgjucBcDE2)**:** No underage fees if you show your Watcard, which saves a whole lot of money especially if your credit card provides CDW insurance (check your cardholder agreement).
 
-    * **[Zipcar**](https://www.zipcar.ca/universities/university-of-waterloo): The area around campus has a few Zipcars for rent. It’s rented on a hourly basis and gas is free. There’s a really good deal on weekday evenings from 6pm to 8am for a ~ $30 flat fare. Sign up is $20 with the student discount.
+    * [**Zipcar**](https://www.zipcar.ca/universities/university-of-waterloo): The area around campus has a few Zipcars for rent. It’s rented on a hourly basis and gas is free. There’s a really good deal on weekday evenings from 6pm to 8am for a ~ $30 flat fare. Sign up is $20 with the student discount.
 
-    * **[Enterprise Car Share**](https://www.enterprisecarshare.ca/ca/en/programs/university/uwaterloo.html)**: **First year’s fee is $1 - there are a couple cars to the North/East of campus.
+    * [**Enterprise Car Share**](https://www.enterprisecarshare.ca/ca/en/programs/university/uwaterloo.html)**: **First year’s fee is $1 - there are a couple cars to the North/East of campus.
 
 # Getting to other cities
 

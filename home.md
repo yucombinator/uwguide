@@ -7,6 +7,7 @@ We want to create a guide that includes some useful info for campus life (Counse
 
 [Restaurants](/restaurants)
 [Bubble Tea](/bubble-tea)
+[Groceries](/groceries)
 [Campus Tips](/campus-tips)
 [Study Areas](/study-areas)
 [Getting Around](/getting-around)

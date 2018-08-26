@@ -5,20 +5,19 @@
 
 We want to create a guide that includes some useful info for campus life (Counseling! Secret tunnels on campus! Grad House beers!), but also information on interesting things to do around the campus. One thing I noticed when talking to first years is that a good amount of them haven’t left the area around the campus all that much. Hopefully, by listing things in the city, we can dispel the myth that there is nothing to do in the KW area… it won’t be Toronto, or NYC, for sure, but we’ve got to start somewhere :)
 
-[Restaurants](/restaurants)
-[Bubble Tea](/bubble-tea)
-[Groceries](/groceries)
-[Campus Tips](/campus-tips)
-[Study Areas](/study-areas)
-[Getting Around](/getting-around)
-[Things to do on Campus](/what-to-do)
-[Clubs](/clubs)
-[Activities in Waterloo](/waterloo-activities)
-[Activities in Kitchener](/kitchener-activities)
-[Counselling](/counselling)
-[Saving Money](/saving-money)
-[Seasonal Events](/events)
-
+* [Restaurants](/restaurants)
+* [Bubble Tea](/bubble-tea)
+* [Groceries](/groceries)
+* [Campus Tips](/campus-tips)
+* [Study Areas](/study-areas)
+* [Getting Around](/getting-around)
+* [Things to do on Campus](/what-to-do)
+* [Clubs](/clubs)
+* [Activities in Waterloo](/waterloo-activities)
+* [Activities in Kitchener](/kitchener-activities)
+* [Counselling](/counselling)
+* [Saving Money](/saving-money)
+* [Seasonal Events](/events)
 # Contributing
 Something about how to contribute here.
 
@@ -27,3 +26,7 @@ This guide runs on a Markdown-based wiki software, and can be edited in two ways
 2.  For the more technically minded: you can clone [our github repository](https://github.com/icechen1/uwguide) and submit changes as Pull Requests.
 
 [Credits](/credits)
+
+We're currently working on the following two pages:
+* [Coffee Shops](/coffee-shops)
+* [Pubs and Bars](/bars)

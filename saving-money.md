@@ -1,5 +1,5 @@
 <!-- TITLE: Saving Money -->
-<!-- SUBTITLE: A quick summary of Saving Money -->
+<!-- SUBTITLE: OSAP isn't going to pay itself off, after all. -->
 
 * [Request a GO Student ID](https://studentid.gotransit.com/Metrolinx.StudentIDRequest/en/studentid/Home/IDRequest) and bring this + your PRESTO card to Turnkey to get discounts on GO
 

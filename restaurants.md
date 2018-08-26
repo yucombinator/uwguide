@@ -37,7 +37,7 @@
 
 * [**Owl of Minerva**](https://www.yelp.ca/biz/the-famous-owl-of-minerva-waterloo)  (Uptown Waterloo): Best Korean in Waterloo ($10-15)
 
-* **Vincenzo’s (South of Uptown): ** GOD TIER, both for super high quality groceries at weirdly reasonable prices, and for good reasonably priced sandwiches.
+* **Vincenzo’s**  (South of Uptown): GOD TIER, both for super high quality groceries at weirdly reasonable prices, and for good reasonably priced sandwiches.
 
 * **Flame Meat Shop (North of campus):** Probably the best indian food in waterloo per dollar. Pretty difficult to get to, and the food takes ~30-45 min to prep b/c they only make orders fresh, and you’ll have to bus/uber/drive there to pick it up. You can get 3 meat + 3 veg curries + 3 boxes of rice + 3 naan as a student deal for a very reasonable price, definitely worth it if you have a lot of friends who are craving south asian food where Aunty’s won’t cut it.
 
@@ -65,10 +65,10 @@
 
 # Other Food
 
-* **[Schmuck Truc**k](http://www.schmuckngourmet.ca/)**:** Food truck with generous portions and the best fries I've ever had
+* [**Schmuck Truck**](http://www.schmuckngourmet.ca/): Food truck with generous portions and the best fries I've ever had
 
-* **[bo de'**s](http://www.bodefoods.com/): Discount cookies and candy on Northfield. Sells cookies in 5 pound boxes for $10.
+* [**bo de's**](http://www.bodefoods.com/): Discount cookies and candy on Northfield. Sells cookies in 5 pound boxes for $10.
 
-* **[Ambrosia Pastr**y](https://ambrosiapastry.com): Only open Saturday 10-3, posts weekly menus the night before on [Twitter](https://twitter.com/Ambrosia_Pastry). Amazing croissants and ice cream.
+* [**Ambrosia Pastry**](https://ambrosiapastry.com): Only open Saturday 10-3, posts weekly menus the night before on [Twitter](https://twitter.com/Ambrosia_Pastry). Amazing croissants and ice cream.
 
     * Open Thursday nights in the summer; 2 food trucks come by (date idea anyone?)

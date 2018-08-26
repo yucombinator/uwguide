@@ -21,7 +21,7 @@
 
 * **E6 5th floor** has a lot of tables with power. Not super crowded and relatively close to Philips/Lester student housing
 
-* **St Jerome’s new building (SJ2)**has a very open, naturally-lit layout with workspaces overlooking the creek
+* **St Jerome’s new building (SJ2)** has a very open, naturally-lit layout with workspaces overlooking the creek
 
 * **SLC 3rd floor**quiet study (when renovations finally finish)
 

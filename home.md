@@ -19,4 +19,7 @@ We want to create a guide that includes some useful info for campus life (Counse
 [Saving Money](/saving-money)
 [Seasonal Events](/events)
 
+# Contributing
+Something about how to contribute here.
+
 [Credits](/credits)

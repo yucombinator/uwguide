@@ -17,7 +17,7 @@
 
 * **MC 5th and 6th floor** has some spaces with power and it is renovated and looks nicer than the rest of MC.
 
-* **DP **basement has some comfy couches.
+* **DP** basement has some comfy couches.
 
 * **E6 5th floor** has a lot of tables with power. Not super crowded and relatively close to Philips/Lester student housing
 

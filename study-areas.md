@@ -1,5 +1,5 @@
 <!-- TITLE: Study Areas -->
-<!-- SUBTITLE: A quick summary of Study Areas -->
+<!-- SUBTITLE: Wait. That building exists? -->
 
 * **Environment 1** has a covered courtyard with tables and outlets - pretty nice place when the weather is alright that usually isn’t that busy 
 

@@ -1,5 +1,5 @@
 <!-- TITLE: Campus Tips -->
-<!-- SUBTITLE: A quick summary of Campus Tips -->
+<!-- SUBTITLE: Whoa, I can do that? Sweet. -->
 
 * You can use [UPrint](http://uprint.uwaterloo.ca/instructions.html) to print on campus, or to scan to your email
 

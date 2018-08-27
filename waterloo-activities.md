@@ -1,5 +1,5 @@
 <!-- TITLE: Waterloo Activities -->
-<!-- SUBTITLE: A quick summary of Waterloo Activities -->
+<!-- SUBTITLE: There's more than just the University. Seriously. -->
 
 * **Pokemon GO**: There’s an active community in the KWCG area; you can find us on [Discord](https://discord.gg/M7fN9eC)
 

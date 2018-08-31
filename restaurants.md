@@ -5,7 +5,7 @@
 
 * **Grad House:** $10 Wellington pitchers after 4:30 PM and a $7 special daily
 
-* **The Bombshelter Pub:** Bomber Breakfast (eggs, toast, home fries, meat) is $4 before 11 AM. Add $1 for 2 pancakes or a drink. Daily specials.
+* **The Bombshelter Pub:** Bomber Breakfast (eggs, toast, home fries, meat) is $4 before 11 AM. Add $1 for 2 pancakes or a drink. Daily specials. Friday Wings half price.
 
 # Around Campus/University
 

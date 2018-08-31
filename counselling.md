@@ -22,3 +22,5 @@
 * [List of resources](https://uwaterloo.ca/campus-wellness/urgent-help-and-emergency-contacts) outside of UW (eg. hotlines)
 
 * Ask for help on Reddit (r/uwaterloo), it may seem likes it's only for Memes but there are a tonne of very kind helpful people there, many of whom would meet up for coffee or love to just message back and forth.
+
+* If it is an academic issue, your academic advisors may also have helpful advice, e.g. [CS advisors](https://cs.uwaterloo.ca/office-hours) or [SE advisors](https://uwaterloo.ca/software-engineering/current-undergraduate-students/academic-support).

@@ -13,6 +13,6 @@
 
 * [**Archery**](https://www.facebook.com/uwarchery/): They have bows and arrows for you if you don’t have your own (better if you do), $25 for the term and they have weekly practices.
 
-* [**Outers Club**](https://www.facebook.com/groups/UWoutersclub/): $10 membership a term for very cheap camping gear rentals, about $10/person for a weekend for 4 people)
+* [**Outers Club**](https://www.facebook.com/groups/UWoutersclub/): $10 membership a term for very cheap camping gear rentals, about $10/person for a weekend for 4 people
 
 * [**UW Hiking Club**](https://www.facebook.com/groups/126752278049600/): if you’re feeling outdoorsy and you wanna explore Waterloo!

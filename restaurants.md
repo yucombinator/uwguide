@@ -49,6 +49,8 @@
 
 * **Quik Sandwiches** - in Uptown it's faster food and a little pricey but really great
 
+* **Lou Dawg's** - In Uptown Waterloo, Southern BBQ place. Try the "Big Dawg Beef Crunch Wrap".
+
 # Kitchener
 
 * **East African Cafe:** Good Ethiopian food - decent portions and price, 

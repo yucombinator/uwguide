@@ -15,4 +15,4 @@ Get a Vicinity card so you can get free bubble tea/specials (available at Chatim
 
 * **Noon Moment** (behind Phil’s): Try the mango diamond
 
-* **Sweet Dreams**: Welcoming atmosphere, comfortable seats, and board games. Great place to hang out with friends between class breaks or in the evenings.
+* **Sweet Dreams**: Welcoming atmosphere, comfortable seats, and board games. Great place to hang out with friends between class breaks or in the evenings. Has a special that changes pretty often, when a good special comes, you get a large for the price of a standard. Would recommnend less sugar here though.

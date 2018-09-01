@@ -5,6 +5,6 @@ Death Valley’s Little Brother
 
 Crossroads Cafe (Boardgames, drinks)
 
-Settlement Co
+Settlement Co (Downtown Kitchener and Uptown Waterloo)
 
 Balzac’s

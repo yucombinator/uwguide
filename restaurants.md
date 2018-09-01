@@ -47,7 +47,9 @@
 
 * **Loloan Lobby Bar**: Really good south asian food (Indonesia, Singapore, etc). Authentic food, but fancier. Definitely a good candidate for a dressed-up meal, where a dress shirt and casual black dress doesn’t stand out - but going in just a t-shirt and jeans is also common. It’s quite the interesting dynamic there. Definitely get a cocktail.
 
-* **Quik Sandwiches** - in Uptown it's faster food and a little pricey but really great
+* **Quik Sandwiches**: in Uptown it's faster food and a little pricey but really great
+
+* **Watami**: sushi, newly re-opening in Uptown, used to be good before they closed
 
 * **Lou Dawg's** - In Uptown Waterloo, Southern BBQ place. Try the "Big Dawg Beef Crunch Wrap".
 
@@ -57,13 +59,15 @@
 
 * **Muya Restaurant:** Well-flavoured Ethiopian food.
 
+* **Guanaquita:** Hidden upstairs, a Salvadoran option.
+
 * **Philly Cheesesteak**: Really good philly cheesesteak sandwiches in downtown Kitchener. Decently priced and the owner of the restaurant is very friendly!
 
 * **Kinkaku**: AYCE sushi, very popular, limited seating but fantastic food. They take reservations for groups of 6 or more. 
 
 * **Mark’s Caribbean Kitchen**: Great new Caribbean place that just opened. Very friendly staff and the chef will even sometimes come talk to you. Recommend the Jerk Chicken or the Oxtail Stew!
 
-* **Lancaster Smokehouse**: Great Southern BBQ. Try their platters (with friends). 
+* **Lancaster Smokehouse**: Great Southern BBQ. Try their platters (with friends).
 
 # Other Food
 

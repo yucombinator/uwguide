@@ -2,7 +2,7 @@
 <!-- SUBTITLE: For those of us who can "cook". -->
 
 
-* Valu-Mart (Uptown Waterloo): 10% student discount Tues-Thurs
+* Valu-Mart (Uptown Waterloo): 10% student discount Mon-Wed
 
 * Sobey’s: 10% student discount Tues-Thurs
 

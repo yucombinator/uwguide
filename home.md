@@ -35,7 +35,8 @@ This guide runs on a Markdown-based wiki software, and can be edited in two ways
 We're currently working on the following two pages:
 * [Coffee Shops](/coffee-shops)
 * [Pubs and Bars](/bars)
-
+* [Clinics](/clinics)
+* 
 [Credits](/credits)
 
 For any questions & comments, shoot an email to [Yu Chen Hou](mailto:me@yuchenhou.com) or [Deon Hua](mailto:me@deonhua.com).

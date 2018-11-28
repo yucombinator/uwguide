@@ -11,13 +11,13 @@
 
 * **Morals Village**: expensive but great. They have a noodle option that’s a la carte if you don’t want to pay for the expensive hot pot though the hot pot (dat lamb) is quite good.
 
-* **Asakusa**: a bit on the pricier side but debatably much better than Kenzo’s for ramen. Atmosphere is also nice and isn’t too cramped.
+* **Asakusa**: A bit on the pricier side and also serves ramen. Atmosphere is also nice and isn’t too cramped.
 
 * **Ken’s Sushi**: The only decent sushi place near campus. Also pricy for the quality but if you want a fix of fish it’s the fastest way. On a good day you’ll get the salmon fresh and it’ll actually be worth the money… Lunch specials are decently priced.
 
 * **Gol’s Lanzhou Noodle**: Quality food with good portion size ($10-15).
 
-* **Kenzo Ramen**: Really good ramen! A solid lunch meal, and pretty reasonably priced (~$10)
+* **Kenzo Ramen**: Ramen! A lunch meal, and pretty reasonably priced (~$10)
 
 * **Waterloo Star**: Pretty cheap, decent asian food (especially if you go for their lunch specials which is like 6.99 (includes a dish as well as soup and all you can drink pop)
 

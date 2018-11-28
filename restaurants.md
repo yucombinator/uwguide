@@ -61,6 +61,8 @@
 
 * **Guanaquita:** Hidden upstairs, a Salvadoran option.
 
+* **Pho Dau Bo:** Good pho. One of the only options in KW. Fairly priced!
+
 * **Philly Cheesesteak**: Really good philly cheesesteak sandwiches in downtown Kitchener. Decently priced and the owner of the restaurant is very friendly!
 
 * **Kinkaku**: AYCE sushi, very popular, limited seating but fantastic food. They take reservations for groups of 6 or more. 

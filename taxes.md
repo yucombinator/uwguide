@@ -1,7 +1,7 @@
 <!-- TITLE: Taxes -->
 <!-- SUBTITLE: Money money money -->
 
-*Last updated: February 2019.* Anything incorrect or out-of-date? Send an email to [Yu Chen Hou](mailto:me@yuchenhou.com) or [Jessica Jiang](mailto:jessicajiang97@gmail.com).
+*Last updated: February 2019.*
 
 **Disclaimer**: This isn't professional tax advice and is crowdsourced from a group of UW students. This advice was not intended or written by the practitioner to be used, and that it cannot be used by the taxpayer, for the purpose of avoiding penalties that may be imposed on the taxpayer.
 # Canadian Taxes
@@ -32,3 +32,7 @@ You will need to file forms IT2, IT 203, IT 203b. Unfortunately as far as I know
 
 ### Washington
 You don't need to file state taxes as there is no income tax here! Lucky you.
+
+
+
+ Anything incorrect or out-of-date? Send an email to [Yu Chen Hou](mailto:me@yuchenhou.com) or [Jessica Jiang](mailto:jessicajiang97@gmail.com).

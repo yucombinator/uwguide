@@ -21,7 +21,7 @@ Welcome to the dark ages,
 Instructions on how to file taxes depend on which state you have worked in.
 
 ### California
-
+You cannot e-file your state taxes yet. You will need to file form 540NR.
 
 ### New York
 You will need to file forms IT2, IT 203, IT 203b. Unfortunately as far as I know it is not possible to file taxes electronically for New York, so you will have to mail it out.

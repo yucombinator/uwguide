@@ -1,5 +1,5 @@
 <!-- TITLE: Taxes -->
-<!-- SUBTITLE: *Last updated: February 2019.*  -->
+<!-- SUBTITLE: Last updated: February 2019. -->
 
  See anything incorrect or out-of-date? Send an email to [Yu Chen Hou](mailto:me@yuchenhou.com) or [Jessica Jiang](mailto:jessicajiang97@gmail.com).
 

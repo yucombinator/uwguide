@@ -19,6 +19,8 @@ It doesn't matter if you're a new student or well-established in the school comm
 * [Saving Money](/saving-money)
 * [Counselling](/counselling)
 
+## Boring Paperwork
+* [Coop and Taxes](/taxes)
 ## Around the City
 * [Getting Around](/getting-around)
 * [Activities in Waterloo](/waterloo-activities)

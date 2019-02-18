@@ -15,20 +15,24 @@ There are many options to file your taxes online. I personally use [UFile](https
 
 
 # American Taxes
-American taxes are due by April 15. You will need to file both Federal and State taxes if you worked in the US. Before you file these taxes, you will need to have:
-*  W-2 forms from all your employers in the tax year -- these should come in by January 31 each year.
+American taxes are due by April 15. You will need to file both Federal and State taxes if you worked in the US. Before you file these taxes, you will need to have your:
+*  W-2 forms -- your employer should send these to you by January 31
+*  SSN
+*  Form DS-2019
+*  US entry and exit dates for the last 3 years (or roughly the amount of days you were in the US)
+
 
 ## Federal
-Welcome to the dark ages,
+Welcome to the dark ages.
 
 ## State
-Instructions on how to file taxes depend on which state you have worked in.
+Instructions on how to file taxes depend on which state you have worked in. You'll need to fill out your 1040NR-EZ before filling out your state tax forms.
 
 ### California
-You cannot e-file your state taxes yet. You will need to file form 540NR.
+You can't e-file your state taxes yet. You will need to file form 540NR.
 
 ### New York
 You will need to file forms IT2, IT 203, IT 203b. Unfortunately as far as I know it is not possible to file taxes electronically for New York, so you will have to mail it out.
 
 ### Washington
-You don't need to file state taxes as there is no income tax here! Lucky you.
+You don't need to file state taxes as there is no income tax here. Lucky you! 🎉

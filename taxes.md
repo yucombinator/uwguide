@@ -1,7 +1,7 @@
 <!-- TITLE: Taxes -->
 <!-- SUBTITLE: Money money money -->
 
-Last updated: February 2019.
+Last updated: February 2019. Anything incorrect or out-of-date? Send an email to Yu Chen Hou or Deon Hua.
 
 **Disclaimer**: This isn't professional tax advice and is crowdsourced from a group of UW students. This advice was not intended or written by the practitioner to be used, and that it cannot be used by the taxpayer, for the purpose of avoiding penalties that may be imposed on the taxpayer.
 # Canadian Taxes

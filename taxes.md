@@ -38,5 +38,4 @@ You don't need to file state taxes as there is no income tax here! Lucky you.
 
 -----
 
-
  Anything incorrect or out-of-date? Send an email to [Yu Chen Hou](mailto:me@yuchenhou.com) or [Jessica Jiang](mailto:jessicajiang97@gmail.com).

@@ -14,3 +14,5 @@ There’s lots happening on campus, with something for everyone!
 * [Athletics](https://athletics.uwaterloo.ca/) offers many drop-in, intramural, and varsity sports
 
 * Feds offers many [services](https://feds.ca/feds-services/student-service) which help students: eg. the Food Bank, the Women’s Centre, etc.
+
+* The Ion train is a great way to get around campus! You can use it to get to Kitchener for restaurants and other great things to do.
